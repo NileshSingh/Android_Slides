@@ -9,9 +9,9 @@ containers that define how the child views are laid out, such as in a grid or a 
 Android provides an XML vocabulary that corresponds to the subclasses of View and ViewGroup so you can define 
 your UI in XML using a hierarchy of UI elements.
 
-    .. image:: img/viewGroup.png
-    :alt: Course image
-    :align: center
+    .. image::img/viewGroup.png
+       :alt: Course image
+       :align: center
 	
 	Create a Linear Layout
 	----------------------
