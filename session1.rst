@@ -1,5 +1,5 @@
-Building a Simple User Interface
-================================
+    Building a Simple User Interface
+    ================================
     The graphical user interface for an Android app is built using a hierarchy of View and ViewGroup objects. 
     View objects are usually UI widgets such as buttons or text fields. ViewGroup objects are invisible view 
     containers that define how the child views are laid out, such as in a grid or a vertical list.
@@ -8,7 +8,7 @@ Building a Simple User Interface
 	your UI in XML using a hierarchy of UI elements.
 	
 	.. figure:: img/viewGroup.png
-    :align: center
+       :align: center
 	
 	Create a Linear Layout
 	----------------------
